@@ -25,8 +25,12 @@ Our prototype works on multiple devices and is a responsive design. We implement
 #Our Tool Stack
 We developed the prototype with 14 modern, open source technologies most appropriate to implement the prototype.
 
+https://github.com/spinsys/dhs/blob/master/documentation/applicationstack.pdf
+
 Front-End: Bootstrap, Angular.JS, Node.js, Karma, JS Hint, nvd3
+
 Backend: Web API
+
 Dev-Ops: TeamCity
 
 #Our Devops Workflow
