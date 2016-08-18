@@ -12,6 +12,10 @@ Staging: https://dhsuat.spinsys.com
 #Digital Services Playbook
 
 We closely followed the Digital Services playbook guidelines as detailed in the link below:U.S. Digital Services Playbook (https://playbook.cio.gov)
+
+We have outlined our process here:
+https://github.com/spinsys/dhs/blob/master/documentation/DigitalServicePlays.md
+
 #Source Control
 The team utilized BeanStalkapp (git protocol) for distributed source control. We leveraged the GitFlow model of propagating code from feature branches, to development, to release, and finally to production. 
 
