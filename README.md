@@ -17,6 +17,11 @@ The team utilized BeanStalkapp (git protocol) for distributed source control. We
 
 #Our Style Guide/ Wireframes/ Mockups
 
+Login Screen Mockup:
+https://marvelapp.com/2agi97a
+
+Basecamp: https://basecamp.com/2515051/projects/12717716   [ Use username:demo pwd: demo to see the project ]
+
 #Our Iterative Agile Process
 
 #Our Responsive Design
