@@ -9,6 +9,9 @@ Development: https://dhsdev.spinsys.com/dhsweb1
 Staging: https://dhsuat.spinsys.com/dhsweb1
              https://dhsuat.spinsys.com/dhsapi1
              
+#The Challenge
+
+#The Solution
 #Digital Services Playbook
 
 We closely followed the Digital Services playbook guidelines as detailed in the link below:U.S. Digital Services Playbook (https://playbook.cio.gov)
@@ -27,6 +30,15 @@ https://marvelapp.com/2agi97a
 Basecamp: https://basecamp.com/2515051/projects/12717716   [ Use username:demo pwd: demo to see the project ]
 
 #Our Iterative Agile Process
+Our unique ideation process combines the perspectives of designers, architects, developers,  & product owners to provide a 360° view of the MVP.
+
+![logo](http://cdn2.hubspot.net/hub/1789978/hubfs/icons-CS76-02.png?t=1471546217499&width=402&height=400 "agile" )
+#Sprints
+![logo](http://cdn2.hubspot.net/hubfs/1789978/icons-CS76-01.png "Sprinting")
+
+
+#Sprint Demo
+![sprint] (http://cdn2.hubspot.net/hub/1789978/hubfs/icons-CS76-03.png?t=1471546217499&width=402&height=400 "demo")
 
 #Our Responsive Design
 Our prototype works on multiple devices and is a responsive design. We implemented our front-end with the Bootstrap framework to provide a completely responsive experience. We conducted usability tests to observe users on these platforms and used Google’s chrome mobile display test tool to emulate the experience of different platforms.
