@@ -3,11 +3,11 @@
 #Introduction
 Prototype: https://dhsprod.spinsys.com/
 
-Development: https://dhsdev.spinsys.com
-             https://dhsdev.spinsys.com/api
+Development: https://dhsdev.spinsys.com/dhsweb
+             https://dhsdev.spinsys.com/dhsapi
              
-Staging: https://dhsuat.spinsys.com
-             https://dhsuat.spinsys.com/api
+Staging: https://dhsuat.spinsys.com/dhsweb
+             https://dhsuat.spinsys.com/dhsapi
              
 #Digital Services Playbook
 
